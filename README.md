@@ -1,4 +1,4 @@
-# icon-pack
+# Six Color Icon Pack
 
 ![icons](_master.jpg)
 
